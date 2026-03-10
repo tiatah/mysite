@@ -1,4 +1,4 @@
-# mysite
+Hello from branch-b!
 practice, practice, practice
 I am going to master advanced features of Git.
 ok now I should have 3 commits.
